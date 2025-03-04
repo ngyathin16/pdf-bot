@@ -3,7 +3,7 @@
 🚀 **A powerful AI-driven chatbot that extracts information from PDFs using NVIDIA NIM, FAISS, and LangChain.**  
 Users can upload PDFs and ask questions about the content, with real-time responses powered by advanced AI.
 
-![Demo](https://user-images.githubusercontent.com/your-image-link.png)  <!-- Add a demo image/gif here -->
+![Demo](https://raw.githubusercontent.com/ngyathin16/pdf-bot/main/demo%20image.png)  <!-- Add a demo image/gif here -->
 
 ---
 
