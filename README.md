@@ -18,7 +18,7 @@ Users can upload PDFs and ask questions about the content, with real-time respon
 ## **📦 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-bot.git
+git clone https://github.com/ngyathin16/pdf-bot.git
 cd pdf-bot
 ```
 
